@@ -3,8 +3,7 @@
 **Student Name:** Chystine Jaylyn D. Sorel
 **Selected Framework:** Vue.js 3 with Nuxt.js 3 (Static Site Generation)
 
-**Live Website:** https://\<your-github-username\>.github.io/\<your-repo-name\>/
-*(update this link once GitHub Pages is live — see Deployment below)*
+**Live Website:**https://devsorel-png.github.io/Pangasinan_Heritage/
 
 A digital showcase of the Cape Bolinao Lighthouse, built for the Pangasinan Provincial
 Tourism Office as a fast, mobile-first, accessible static site.
